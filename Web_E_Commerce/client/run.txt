@@ -1,0 +1,8 @@
+1. Chạy server
+cd server
+npm install
+npm start
+2. Chạy client
+cd client
+npm install
+npm start

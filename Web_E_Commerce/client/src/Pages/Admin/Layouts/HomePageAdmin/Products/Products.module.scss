@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+}
+
+.header-product {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+}

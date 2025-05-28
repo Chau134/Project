@@ -1,0 +1,19 @@
+.main {
+    display: grid;
+    grid-template-columns: 15% 84%;
+}
+
+.slide-bar {
+    width: 100%;
+    height: 100vh;
+    background-color: #171821;
+    border-right: 1px solid #ccc;
+}
+
+.home-page {
+    width: 100%;
+}
+
+.wrapper {
+    background-color: #171821;
+}
